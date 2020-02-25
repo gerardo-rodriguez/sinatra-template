@@ -1,6 +1,6 @@
 source :rubygems
 gem 'sinatra', '>= 1.0'
-gem 'rake'
+gem 'rake', '>= 12.3.3'
 gem 'data_mapper'
 gem 'dm-core'
 gem 'dm-sqlite-adapter'
