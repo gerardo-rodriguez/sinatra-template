@@ -1,5 +1,5 @@
 source :rubygems
-gem 'sinatra', '>= 1.0'
+gem 'sinatra', '>= 2.0.0'
 gem 'rake'
 gem 'data_mapper'
 gem 'dm-core'
@@ -12,5 +12,5 @@ gem 'haml'
 
 group :test do
   gem 'rspec', :require => 'spec'
-  gem 'rack-test'
+  gem 'rack-test', '>= 0.6.0'
 end
