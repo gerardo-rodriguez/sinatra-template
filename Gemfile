@@ -1,5 +1,5 @@
 source :rubygems
-gem 'sinatra', '>= 1.0'
+gem 'sinatra', '>= 2.2.0'
 gem 'rake'
 gem 'data_mapper'
 gem 'dm-core'
